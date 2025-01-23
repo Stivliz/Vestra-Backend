@@ -1,0 +1,16 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar logs
+*.log
+logs/
+
+# Ignorar el entorno
+.env
+
+# Ignorar la carpeta de compilación (si usas TypeScript)
+dist/
+
+
+# Ignorar dependencias específicas de sistemas operativos
+*.swp
